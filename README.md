@@ -11,8 +11,9 @@ This project delves into the vibrant world of Airbnb in Istanbul, exploring vari
 - Characteristics of Superhosts: What distinctive traits and practices define superhosts in Istanbul?<br>
 
 ### Data Collection
-Inside Airbnb Istanbul Listing Dataset was used, which was generated on 29 December, 2023<br>
-The dataset can be found here: http://insideairbnb.com/istanbul/
+Inside Airbnb Istanbul Listing Dataset was used, which was generated on (29 December, 2023)<br>
+The older version of the dataset (24 September, 2023) was also used to fill some missing values<br>
+Both datasets can be found here: http://insideairbnb.com/get-the-data/
 ### Conclusion
 - The key factors influencing listing prices positively are he number of people it accommodates, the property type is Entire Home, and the number of beds. <br>Whereas the most negatively correlated features with the price are if the property is private room, the number of private rooms listed by the host, the listing has a lock on the bedroom's door, and the host response time is a few days or more.<br>
 - The neighborhoods with the highest demand are Beyoğlu, Şişli, Kadıköy, Fatih, and Beşiktaş.<br>
